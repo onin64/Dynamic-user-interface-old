@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding:0;
+    font-size:medium;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}/*Header styles*/
+#HeaderContainer > h1{
+    font-size: large;
+    font-weight:bolder;
+    color: blue;
+   
+}
+#HeaderContainer > small{
+    font-size: large;
+    font-weight:bold;
+    color:rgb(221, 52, 137)
+}
+  #Headcontainer{
+    margin: 30px ;
+    padding: 20px;
+    box-shadow: 5px 2px 
+  }
